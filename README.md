@@ -10,4 +10,4 @@
 
 #### - Bag of Words representation should be used to extract features from the text data i.e., reviews.
 
-#### - Implement model SAV and Naive Bayes to classify the positive and negative reviews
+#### - Implement model SVM and Naive Bayes to classify the positive and negative reviews
